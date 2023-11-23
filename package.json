@@ -9,7 +9,7 @@
     "radio-browser-info"
   ],
   "private": false,
-  "author": "Ivan Vlatkovic",
+  "author": "Luigi Vampa",
   "license": "MIT",
   "type": "module",
   "main": "./dist/prod/index.cjs",
